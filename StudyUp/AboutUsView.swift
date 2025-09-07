@@ -2,7 +2,7 @@
 //  AboutUsView.swift
 //  StudyUp
 //
-//  Created by Scholar on 6/11/24.
+//  Created by Ashima, Harini, Ananya, and Emily on 6/11/24.
 //try it
 
 import SwiftUI
